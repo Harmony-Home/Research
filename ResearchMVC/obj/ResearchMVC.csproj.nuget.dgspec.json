@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harmo\\Repo\\Research\\ResearchMVC\\ResearchMVC.csproj": {}
+    "C:\\Users\\harmo\\Repo\\Research\\researchmvc\\ResearchMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harmo\\Repo\\Research\\ResearchMVC\\ResearchMVC.csproj": {
+    "C:\\Users\\harmo\\Repo\\Research\\researchmvc\\ResearchMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harmo\\Repo\\Research\\ResearchMVC\\ResearchMVC.csproj",
+        "projectUniqueName": "C:\\Users\\harmo\\Repo\\Research\\researchmvc\\ResearchMVC.csproj",
         "projectName": "ResearchMVC",
-        "projectPath": "C:\\Users\\harmo\\Repo\\Research\\ResearchMVC\\ResearchMVC.csproj",
+        "projectPath": "C:\\Users\\harmo\\Repo\\Research\\researchmvc\\ResearchMVC.csproj",
         "packagesPath": "C:\\Users\\harmo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harmo\\Repo\\Research\\ResearchMVC\\obj\\",
+        "outputPath": "C:\\Users\\harmo\\Repo\\Research\\researchmvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
